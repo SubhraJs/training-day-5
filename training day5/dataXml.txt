@@ -1,0 +1,22 @@
+<patients>
+    <patient>
+    <name> Subhrajyoti Saha</name>
+    <age>22</age>
+    <height>5'2</height>
+    <weight>55kg</weight>
+    <diseases>
+        <diseas>High fever</diseas>
+        <diseas>cough</diseas>
+    </diseases>
+    </patient>
+        <patient>
+    <name> Nilanjana sarkar</name>
+    <age>22</age>
+    <height>5</height>
+    <weight>52kg</weight>
+    <diseases>
+        <diseas>High fever</diseas>
+        <diseas>headache</diseas>
+    </diseases>
+    </patient>
+</patients>
